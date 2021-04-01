@@ -1,0 +1,805 @@
+[
+  {
+    "topicUrl": "https://github.com/topics/qt",
+    "projects": [
+      {
+        "projectUrl": "https://github.com/Swordfish90/cool-retro-term",
+        "issues": [
+          {
+            "heading": "Supporting several languages on Pantheon DE",
+            "url": "https://github.com/Swordfish90/cool-retro-term/issues/644"
+          },
+          {
+            "heading": "Getting Older Debian Errors In Devuan Beowulf \"QQmlApplicationEngine failed to load component\"",
+            "url": "https://github.com/Swordfish90/cool-retro-term/issues/643"
+          },
+          {
+            "heading": "Sound Effect",
+            "url": "https://github.com/Swordfish90/cool-retro-term/issues/642"
+          },
+          {
+            "heading": "Unexpected characters when using Dvorak keyboard layout.",
+            "url": "https://github.com/Swordfish90/cool-retro-term/issues/641"
+          },
+          {
+            "heading": "Caps Lock does not work in Mac OS",
+            "url": "https://github.com/Swordfish90/cool-retro-term/issues/639"
+          },
+          {
+            "heading": "Theme doesn't work correctly",
+            "url": "https://github.com/Swordfish90/cool-retro-term/issues/637"
+          },
+          {
+            "heading": "Backspace removes whole words in Micro Editor",
+            "url": "https://github.com/Swordfish90/cool-retro-term/issues/634"
+          },
+          {
+            "heading": "Entering 'y' results in 'z' and vice-versa, but everything else works fine.",
+            "url": "https://github.com/Swordfish90/cool-retro-term/issues/633"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/flameshot-org/flameshot",
+        "issues": [
+          {
+            "heading": "Do not copy screenshot path to clipboard",
+            "url": "https://github.com/flameshot-org/flameshot/issues/1519"
+          },
+          {
+            "heading": "cannot work, ",
+            "url": "https://github.com/flameshot-org/flameshot/issues/1518"
+          },
+          {
+            "heading": "[Feature request] Leave on hold and return.",
+            "url": "https://github.com/flameshot-org/flameshot/issues/1515"
+          },
+          {
+            "heading": "The tray icon is not showing",
+            "url": "https://github.com/flameshot-org/flameshot/issues/1514"
+          },
+          {
+            "heading": "Remember screenshot size and position",
+            "url": "https://github.com/flameshot-org/flameshot/issues/1509"
+          },
+          {
+            "heading": "In windows, After the second expansion screen is reconnected, it cannot be captured.",
+            "url": "https://github.com/flameshot-org/flameshot/issues/1506"
+          },
+          {
+            "heading": "Image seems corrupted when copying to clipboard",
+            "url": "https://github.com/flameshot-org/flameshot/issues/1505"
+          },
+          {
+            "heading": "Upload animation freezes ",
+            "url": "https://github.com/flameshot-org/flameshot/issues/1503"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/SFTtech/openage",
+        "issues": [
+          {
+            "heading": "New Gamestate: Drafts",
+            "url": "https://github.com/SFTtech/openage/issues/1377"
+          },
+          {
+            "heading": "Speed up PNG compression trials with in-memory files",
+            "url": "https://github.com/SFTtech/openage/issues/1376"
+          },
+          {
+            "heading": "Speed up converter texture packing with Cython",
+            "url": "https://github.com/SFTtech/openage/issues/1371"
+          },
+          {
+            "heading": "Use cython fused types (templated functions) to remove redundancy from smp.pyx and smx.pyx",
+            "url": "https://github.com/SFTtech/openage/issues/1370"
+          },
+          {
+            "heading": "Speed up converter terrain merging with Cython",
+            "url": "https://github.com/SFTtech/openage/issues/1369"
+          },
+          {
+            "heading": "More informative KeyError messages in converter",
+            "url": "https://github.com/SFTtech/openage/issues/1344"
+          },
+          {
+            "heading": "Enhance output summary of converter run for debugging",
+            "url": "https://github.com/SFTtech/openage/issues/1343"
+          },
+          {
+            "heading": "Debian package",
+            "url": "https://github.com/SFTtech/openage/issues/1322"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/therecipe/qt",
+        "issues": [
+          {
+            "heading": "qtdeploy does not support specifying main file",
+            "url": "https://github.com/therecipe/qt/issues/1226"
+          },
+          {
+            "heading": "Iconfont cannot be used",
+            "url": "https://github.com/therecipe/qt/issues/1225"
+          },
+          {
+            "heading": "What about qt5.15?",
+            "url": "https://github.com/therecipe/qt/issues/1223"
+          },
+          {
+            "heading": "Nested structs with library interface references in listview",
+            "url": "https://github.com/therecipe/qt/issues/1222"
+          },
+          {
+            "heading": "qtmoc&&qtdeploy work fine, but qtmoc&&go run . failed",
+            "url": "https://github.com/therecipe/qt/issues/1221"
+          },
+          {
+            "heading": "How to embed rcc file to use with golang?",
+            "url": "https://github.com/therecipe/qt/issues/1220"
+          },
+          {
+            "heading": "Is there an example here of how I can use my own classes in bindings?",
+            "url": "https://github.com/therecipe/qt/issues/1219"
+          },
+          {
+            "heading": "qtbox",
+            "url": "https://github.com/therecipe/qt/issues/1218"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/mapeditor/tiled",
+        "issues": [
+          {
+            "heading": "Add per-Tile \"Allowed Transformations\" overrides",
+            "url": "https://github.com/mapeditor/tiled/issues/3016"
+          },
+          {
+            "heading": "Terrains UI issues",
+            "url": "https://github.com/mapeditor/tiled/issues/3015"
+          },
+          {
+            "heading": "Automapping: Restricting rules.txt rules by map name",
+            "url": "https://github.com/mapeditor/tiled/issues/3014"
+          },
+          {
+            "heading": "GlazeJS Typescript game engine supports TMX format",
+            "url": "https://github.com/mapeditor/tiled/issues/3012"
+          },
+          {
+            "heading": "Tiled shows a warning when copying to clipboard outside of Tiled",
+            "url": "https://github.com/mapeditor/tiled/issues/3010"
+          },
+          {
+            "heading": "Parallax resets when layers are reordered",
+            "url": "https://github.com/mapeditor/tiled/issues/3009"
+          },
+          {
+            "heading": "Monospace Text editor isn't monospace",
+            "url": "https://github.com/mapeditor/tiled/issues/3007"
+          },
+          {
+            "heading": "Per-Project Tile Stamps",
+            "url": "https://github.com/mapeditor/tiled/issues/3005"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/jopohl/urh",
+        "issues": [
+          {
+            "heading": "Cannot use SoundCard on Windows 10",
+            "url": "https://github.com/jopohl/urh/issues/853"
+          },
+          {
+            "heading": "Add demodulation support for mono channel WAVE",
+            "url": "https://github.com/jopohl/urh/issues/852"
+          },
+          {
+            "heading": "Add Support for SoapySDRServer",
+            "url": "https://github.com/jopohl/urh/issues/850"
+          },
+          {
+            "heading": "Support for DPQSK Modulation",
+            "url": "https://github.com/jopohl/urh/issues/839"
+          },
+          {
+            "heading": "AM-FSK (AM/FSK) interpretation and generation",
+            "url": "https://github.com/jopohl/urh/issues/806"
+          },
+          {
+            "heading": "Enhancement: Variable protocol field positions depending on LENGTH type fields",
+            "url": "https://github.com/jopohl/urh/issues/801"
+          },
+          {
+            "heading": "Add support for SDRPlay v3 API",
+            "url": "https://github.com/jopohl/urh/issues/783"
+          },
+          {
+            "heading": "Integration with RFQuack",
+            "url": "https://github.com/jopohl/urh/issues/756"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/qutebrowser/qutebrowser",
+        "issues": [
+          {
+            "heading": "Dark mode screenshot tests failing on aarch64",
+            "url": "https://github.com/qutebrowser/qutebrowser/issues/6347"
+          },
+          {
+            "heading": "Add options to silence search warnings",
+            "url": "https://github.com/qutebrowser/qutebrowser/issues/6345"
+          },
+          {
+            "heading": "Print file dialog box is not rendered correctly",
+            "url": "https://github.com/qutebrowser/qutebrowser/issues/6336"
+          },
+          {
+            "heading": "qutebrowser fails to open without errors after being killed.",
+            "url": "https://github.com/qutebrowser/qutebrowser/issues/6325"
+          },
+          {
+            "heading": "Slightly different color for hovered tabs",
+            "url": "https://github.com/qutebrowser/qutebrowser/issues/6317"
+          },
+          {
+            "heading": "Automatically creates ~/Downloads directory for mhtml downloads when default path is different",
+            "url": "https://github.com/qutebrowser/qutebrowser/issues/6312"
+          },
+          {
+            "heading": "Link hinting breaks when running QtWebEngine in single-process mode",
+            "url": "https://github.com/qutebrowser/qutebrowser/issues/6277"
+          },
+          {
+            "heading": "Crashes on windows",
+            "url": "https://github.com/qutebrowser/qutebrowser/issues/6249"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/nodegui/nodegui",
+        "issues": [
+          {
+            "heading": "Unable to run under WSL2 with XLaunch",
+            "url": "https://github.com/nodegui/nodegui/issues/823"
+          },
+          {
+            "heading": "Add QGraphicsView and QGraphicsScene classes",
+            "url": "https://github.com/nodegui/nodegui/issues/822"
+          },
+          {
+            "heading": "Add QMdiArea Class",
+            "url": "https://github.com/nodegui/nodegui/issues/820"
+          },
+          {
+            "heading": "ARM support",
+            "url": "https://github.com/nodegui/nodegui/issues/817"
+          },
+          {
+            "heading": "[Feature Request]QtCharts",
+            "url": "https://github.com/nodegui/nodegui/issues/813"
+          },
+          {
+            "heading": "CONTRIBUTING.md uses Yarn but Project uses NPM",
+            "url": "https://github.com/nodegui/nodegui/issues/811"
+          },
+          {
+            "heading": "Provide templates for CI (for example, github actions)",
+            "url": "https://github.com/nodegui/nodegui/issues/806"
+          },
+          {
+            "heading": "[Docs] Consider adding amanual quickstart",
+            "url": "https://github.com/nodegui/nodegui/issues/805"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topicUrl": "https://github.com/topics/pwa",
+    "projects": [
+      {
+        "projectUrl": "https://github.com/angular/angular",
+        "issues": [
+          {
+            "heading": "i18n discovery in templates uses different placeholders than in components",
+            "url": "https://github.com/angular/angular/issues/41398"
+          },
+          {
+            "heading": "Component requires inline type-checking when using generic types",
+            "url": "https://github.com/angular/angular/issues/41395"
+          },
+          {
+            "heading": "DI errors don't prevent further execution in some cases",
+            "url": "https://github.com/angular/angular/issues/41383"
+          },
+          {
+            "heading": "Auxilliary Routes are not properly deactivated",
+            "url": "https://github.com/angular/angular/issues/41379"
+          },
+          {
+            "heading": "ReferenceError after update to 11.2.6 on Injectable's",
+            "url": "https://github.com/angular/angular/issues/41377"
+          },
+          {
+            "heading": "More infos/tutorials about Protractor and e2e tests",
+            "url": "https://github.com/angular/angular/issues/41369"
+          },
+          {
+            "heading": "Angular Universal documentation on network throttling makes incorrect statement",
+            "url": "https://github.com/angular/angular/issues/41363"
+          },
+          {
+            "heading": "docs: links to non-existing CLI wiki",
+            "url": "https://github.com/angular/angular/issues/41362"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/ionic-team/ionic-framework",
+        "issues": [
+          {
+            "heading": "bug: css bug on ios device mode on chrome dev tools.(rewrited with issue template)",
+            "url": "https://github.com/ionic-team/ionic-framework/issues/23122"
+          },
+          {
+            "heading": "bug: ion-item-sliding performance issues",
+            "url": "https://github.com/ionic-team/ionic-framework/issues/23116"
+          },
+          {
+            "heading": "bug: NG0303: Can't bind to 'ngModel' since it isn't a known property of 'ion-input'.",
+            "url": "https://github.com/ionic-team/ionic-framework/issues/23112"
+          },
+          {
+            "heading": "bug: ion-modal has no aria-label attribute",
+            "url": "https://github.com/ionic-team/ionic-framework/issues/23108"
+          },
+          {
+            "heading": "bug: Cannot read property 'ionPageElement' of undefined",
+            "url": "https://github.com/ionic-team/ionic-framework/issues/23101"
+          },
+          {
+            "heading": "bug: new react app incompatible with yarn 2 \"zero-installs\"",
+            "url": "https://github.com/ionic-team/ionic-framework/issues/23095"
+          },
+          {
+            "heading": "bug: react, IonTabBar does not allow for wrapped IonTabButton components",
+            "url": "https://github.com/ionic-team/ionic-framework/issues/23088"
+          },
+          {
+            "heading": "bug: bug in ionic-vue routing when using ion-back-button",
+            "url": "https://github.com/ionic-team/ionic-framework/issues/23087"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/hoppscotch/hoppscotch",
+        "issues": [
+          {
+            "heading": "Missing documentation - contributors wanted",
+            "url": "https://github.com/hoppscotch/hoppscotch/issues/1573"
+          },
+          {
+            "heading": "Response block should be expanded by default",
+            "url": "https://github.com/hoppscotch/hoppscotch/issues/1555"
+          },
+          {
+            "heading": "Cookie missing in response",
+            "url": "https://github.com/hoppscotch/hoppscotch/issues/1546"
+          },
+          {
+            "heading": "Refactoring Suggestion - Codegen generators",
+            "url": "https://github.com/hoppscotch/hoppscotch/issues/1544"
+          },
+          {
+            "heading": "Improve save request flow",
+            "url": "https://github.com/hoppscotch/hoppscotch/issues/1525"
+          },
+          {
+            "heading": "Apply syntax highlighting on generated code",
+            "url": "https://github.com/hoppscotch/hoppscotch/issues/1507"
+          },
+          {
+            "heading": "Address bar URL params do not update as expected",
+            "url": "https://github.com/hoppscotch/hoppscotch/issues/1497"
+          },
+          {
+            "heading": "Provide a visual editor for JSON/KV request bodies",
+            "url": "https://github.com/hoppscotch/hoppscotch/issues/1435"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/freeCodeCamp/devdocs",
+        "issues": [
+          {
+            "heading": "Documentation versions report for April 2021",
+            "url": "https://github.com/freeCodeCamp/devdocs/issues/1515"
+          },
+          {
+            "heading": "Difficulty scraping browser compatibility data",
+            "url": "https://github.com/freeCodeCamp/devdocs/issues/1506"
+          },
+          {
+            "heading": "Embedded MDN demos are broken",
+            "url": "https://github.com/freeCodeCamp/devdocs/issues/1487"
+          },
+          {
+            "heading": "Documentation: select latest version (forever)",
+            "url": "https://github.com/freeCodeCamp/devdocs/issues/1464"
+          },
+          {
+            "heading": "Desktop PWA lacks forward/back navigation controls",
+            "url": "https://github.com/freeCodeCamp/devdocs/issues/1443"
+          },
+          {
+            "heading": "C++ docs: link not correctly extracted",
+            "url": "https://github.com/freeCodeCamp/devdocs/issues/1396"
+          },
+          {
+            "heading": "mdn: merge DOM and DOM Events",
+            "url": "https://github.com/freeCodeCamp/devdocs/issues/1314"
+          },
+          {
+            "heading": "Automation",
+            "url": "https://github.com/freeCodeCamp/devdocs/issues/1306"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/GoogleChrome/lighthouse",
+        "issues": [
+          {
+            "heading": "Duplicate sourcemap entries w/ serviceworker",
+            "url": "https://github.com/GoogleChrome/lighthouse/issues/12322"
+          },
+          {
+            "heading": "Runtime.evaluate response did not contain a \"result\" object",
+            "url": "https://github.com/GoogleChrome/lighthouse/issues/12321"
+          },
+          {
+            "heading": "Pramed-ASSIAPLI.funil.cloud",
+            "url": "https://github.com/GoogleChrome/lighthouse/issues/12320"
+          },
+          {
+            "heading": "CLS: Initial Layout Shift",
+            "url": "https://github.com/GoogleChrome/lighthouse/issues/12314"
+          },
+          {
+            "heading": "Chrome's PWA CheckOfflineCapability has been disabled",
+            "url": "https://github.com/GoogleChrome/lighthouse/issues/12311"
+          },
+          {
+            "heading": "Give an explanation for NO_LCP when content is all canvas/SVG",
+            "url": "https://github.com/GoogleChrome/lighthouse/issues/12309"
+          },
+          {
+            "heading": "unsized-images does not account of styles applied async",
+            "url": "https://github.com/GoogleChrome/lighthouse/issues/12308"
+          },
+          {
+            "heading": "Replace inquirer with enquirer",
+            "url": "https://github.com/GoogleChrome/lighthouse/issues/12305"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/quasarframework/quasar",
+        "issues": [
+          {
+            "heading": "QTooltip with delay does not work with Firefox for Android",
+            "url": "https://github.com/quasarframework/quasar/issues/8733"
+          },
+          {
+            "heading": "Avoid app logic that relies on enumerating keys on a component instance (Q-Tabs in iOS WKWebView in Vue 3) Quasar 2.0.0-beta.11",
+            "url": "https://github.com/quasarframework/quasar/issues/8727"
+          },
+          {
+            "heading": "Module System with new Quasar",
+            "url": "https://github.com/quasarframework/quasar/issues/8722"
+          },
+          {
+            "heading": "Q-input interrupt spell when use iOS Input Method Engine",
+            "url": "https://github.com/quasarframework/quasar/issues/8719"
+          },
+          {
+            "heading": "Quasar Typescript error",
+            "url": "https://github.com/quasarframework/quasar/issues/8706"
+          },
+          {
+            "heading": "quasar with node addon(c++)",
+            "url": "https://github.com/quasarframework/quasar/issues/8704"
+          },
+          {
+            "heading": "Mask - reverse-fill-mask - Add a literal string from mask even if val is less than mask",
+            "url": "https://github.com/quasarframework/quasar/issues/8698"
+          },
+          {
+            "heading": "Cant read process.env.VAL properly",
+            "url": "https://github.com/quasarframework/quasar/issues/8695"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/pubkey/rxdb",
+        "issues": [
+          {
+            "heading": "GraphQL Request Payload causing issue",
+            "url": "https://github.com/pubkey/rxdb/issues/2997"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/mirumee/saleor",
+        "issues": [
+          {
+            "heading": "need a product and order review, feedback features ...",
+            "url": "https://github.com/mirumee/saleor/issues/7057"
+          },
+          {
+            "heading": "An error occurred when sorting products by collection.",
+            "url": "https://github.com/mirumee/saleor/issues/7053"
+          },
+          {
+            "heading": "Buyer login using their Mobile Number",
+            "url": "https://github.com/mirumee/saleor/issues/7024"
+          },
+          {
+            "heading": "Better search",
+            "url": "https://github.com/mirumee/saleor/issues/7019"
+          },
+          {
+            "heading": "Depedency conflict with M1 ARM",
+            "url": "https://github.com/mirumee/saleor/issues/7017"
+          },
+          {
+            "heading": "Manually adding GST rates",
+            "url": "https://github.com/mirumee/saleor/issues/7006"
+          },
+          {
+            "heading": "The product listing page returns a huge amount of json data",
+            "url": "https://github.com/mirumee/saleor/issues/7004"
+          },
+          {
+            "heading": "Migrate wordpress website to saleor",
+            "url": "https://github.com/mirumee/saleor/issues/6993"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topicUrl": "https://github.com/topics/c",
+    "projects": [
+      {
+        "projectUrl": "https://github.com/Genymobile/scrcpy",
+        "issues": [
+          {
+            "heading": "switch layouts",
+            "url": "https://github.com/Genymobile/scrcpy/issues/2226"
+          },
+          {
+            "heading": "i dont understand this",
+            "url": "https://github.com/Genymobile/scrcpy/issues/2225"
+          },
+          {
+            "heading": "Screen color when playing game is weird",
+            "url": "https://github.com/Genymobile/scrcpy/issues/2224"
+          },
+          {
+            "heading": "Scrcpy is not working",
+            "url": "https://github.com/Genymobile/scrcpy/issues/2221"
+          },
+          {
+            "heading": "please suggest in steps for executing the project for generating scrcpy.exe",
+            "url": "https://github.com/Genymobile/scrcpy/issues/2219"
+          },
+          {
+            "heading": "Recording stops intermittently.",
+            "url": "https://github.com/Genymobile/scrcpy/issues/2218"
+          },
+          {
+            "heading": "HowTo start a multi adb wireless connection for scrcpy at windows by .bat .cmd script",
+            "url": "https://github.com/Genymobile/scrcpy/issues/2217"
+          },
+          {
+            "heading": "Touch with Display Off",
+            "url": "https://github.com/Genymobile/scrcpy/issues/2215"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/neovim/neovim",
+        "issues": [
+          {
+            "heading": "[0.5 Crash] ui_compositor.c or tui.c assertion with indent-blankline & matchit plugins",
+            "url": "https://github.com/neovim/neovim/issues/14267"
+          },
+          {
+            "heading": "Closes when resized below cmdline height",
+            "url": "https://github.com/neovim/neovim/issues/14263"
+          },
+          {
+            "heading": "Ubuntu 20.10 ppa:neovim-ppa/unstable-installed neovim has treesitter incompatible with ABI ver. 13",
+            "url": "https://github.com/neovim/neovim/issues/14261"
+          },
+          {
+            "heading": "LSP: allow registering custom, client-side handlers per server",
+            "url": "https://github.com/neovim/neovim/issues/14258"
+          },
+          {
+            "heading": "HOME key works in vim but not neovim in rxvt-unicode",
+            "url": "https://github.com/neovim/neovim/issues/14257"
+          },
+          {
+            "heading": "Strange issue with \"gj\" and similar motions while folded",
+            "url": "https://github.com/neovim/neovim/issues/14254"
+          },
+          {
+            "heading": "LSP errors on WSL2: rpc.lua:494: attempt to index local 'decoded' (a number value)",
+            "url": "https://github.com/neovim/neovim/issues/14246"
+          },
+          {
+            "heading": "Virtual text in extended marks sticks around after nvim_buf_clear_namespace",
+            "url": "https://github.com/neovim/neovim/issues/14236"
+          }
+        ]
+      },
+      { "projectUrl": "https://github.com/git/git", "issues": [] },
+      {
+        "projectUrl": "https://github.com/fffaraz/awesome-cpp",
+        "issues": [
+          {
+            "heading": "Add cpp-stub library",
+            "url": "https://github.com/fffaraz/awesome-cpp/issues/1064"
+          },
+          {
+            "heading": "Add booleval library",
+            "url": "https://github.com/fffaraz/awesome-cpp/issues/1062"
+          },
+          {
+            "heading": "Add bitflags library",
+            "url": "https://github.com/fffaraz/awesome-cpp/issues/1061"
+          },
+          {
+            "heading": "PlatformLab/NanoLog",
+            "url": "https://github.com/fffaraz/awesome-cpp/issues/1056"
+          },
+          {
+            "heading": "Typo in the entry \"cpp-httplib\"",
+            "url": "https://github.com/fffaraz/awesome-cpp/issues/1054"
+          },
+          {
+            "heading": "Add p-ranav to the \"awsome list\"",
+            "url": "https://github.com/fffaraz/awesome-cpp/issues/1053"
+          },
+          {
+            "heading": "OpenImageDenoise/oidn",
+            "url": "https://github.com/fffaraz/awesome-cpp/issues/1036"
+          },
+          {
+            "heading": "alandefreitas/matplotplusplus",
+            "url": "https://github.com/fffaraz/awesome-cpp/issues/1035"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/obsproject/obs-studio",
+        "issues": [
+          {
+            "heading": "Unexpected Crash when trying to delete a copy/pasted scene filter that was copy/pasted from a duplicated scene",
+            "url": "https://github.com/obsproject/obs-studio/issues/4424"
+          },
+          {
+            "heading": "Crash on exit - Unhandled exception: c0000005 - obs.dll!audio_monitor_destroy+0x95",
+            "url": "https://github.com/obsproject/obs-studio/issues/4409"
+          },
+          {
+            "heading": "Hotkeys trigger even when extra meta/modifier keys are held",
+            "url": "https://github.com/obsproject/obs-studio/issues/4408"
+          },
+          {
+            "heading": "OBS Studio drops frames with sane cache sizes in Linux while transferring files",
+            "url": "https://github.com/obsproject/obs-studio/issues/4403"
+          },
+          {
+            "heading": "Scenes/Groups: Applying Filters to Items incorrectly affects Colors",
+            "url": "https://github.com/obsproject/obs-studio/issues/4401"
+          },
+          {
+            "heading": "Twitch VOD Track Silent on Linux",
+            "url": "https://github.com/obsproject/obs-studio/issues/4400"
+          },
+          {
+            "heading": "scene transition was not correct in preview",
+            "url": "https://github.com/obsproject/obs-studio/issues/4396"
+          },
+          {
+            "heading": ".json file does not work and web source is not displayed",
+            "url": "https://github.com/obsproject/obs-studio/issues/4392"
+          }
+        ]
+      },
+      {
+        "projectUrl": "https://github.com/serhii-londar/open-source-mac-os-apps",
+        "issues": [
+          {
+            "heading": "Suggested app: Monitor Bar",
+            "url": "https://github.com/serhii-londar/open-source-mac-os-apps/issues/637"
+          },
+          {
+            "heading": "Icons need more dpi.",
+            "url": "https://github.com/serhii-londar/open-source-mac-os-apps/issues/635"
+          },
+          {
+            "heading": "Icons for shell & applescript aren't displayed",
+            "url": "https://github.com/serhii-londar/open-source-mac-os-apps/issues/633"
+          },
+          {
+            "heading": "oni: archived/replaced",
+            "url": "https://github.com/serhii-londar/open-source-mac-os-apps/issues/625"
+          },
+          {
+            "heading": "Calculeta is now a paid app",
+            "url": "https://github.com/serhii-londar/open-source-mac-os-apps/issues/623"
+          },
+          {
+            "heading": "go game",
+            "url": "https://github.com/serhii-londar/open-source-mac-os-apps/issues/622"
+          },
+          {
+            "heading": "I published an menubar app - \"Countdown\"",
+            "url": "https://github.com/serhii-londar/open-source-mac-os-apps/issues/621"
+          },
+          {
+            "heading": "Design for GitHub pages",
+            "url": "https://github.com/serhii-londar/open-source-mac-os-apps/issues/572"
+          }
+        ]
+      },
+      { "projectUrl": "https://github.com/FFmpeg/FFmpeg", "issues": [] },
+      {
+        "projectUrl": "https://github.com/vim/vim",
+        "issues": [
+          {
+            "heading": "vim9script: import * as That from \"somefile.vim\" not working inside functions",
+            "url": "https://github.com/vim/vim/issues/8045"
+          },
+          {
+            "heading": "Question/Enhancement: Is it possible to color individual fields of pum? perhaps with text properties?",
+            "url": "https://github.com/vim/vim/issues/8043"
+          },
+          {
+            "heading": "Some lua tests fail with lua 5.4",
+            "url": "https://github.com/vim/vim/issues/8042"
+          },
+          {
+            "heading": "Adding PowerShell files to vim",
+            "url": "https://github.com/vim/vim/issues/8041"
+          },
+          {
+            "heading": "vim9: source legacy script in vim9",
+            "url": "https://github.com/vim/vim/issues/8040"
+          },
+          {
+            "heading": "Add documentation string to mappings, functions, augroups",
+            "url": "https://github.com/vim/vim/issues/8039"
+          },
+          {
+            "heading": "Add GTK4 GUI",
+            "url": "https://github.com/vim/vim/issues/8038"
+          },
+          {
+            "heading": "Vim9: no error for changing script-local variable in :def function when locked at script level",
+            "url": "https://github.com/vim/vim/issues/8031"
+          }
+        ]
+      }
+    ]
+  }
+]
